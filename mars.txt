@@ -4,3 +4,7 @@ ddddd
 word!
 
 lets look at VIM
+
+VIM the movie is much better than VIM the book.
+
+
